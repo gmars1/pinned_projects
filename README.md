@@ -12,4 +12,4 @@
 
 ## etc:
 ### just4fun:
-[![js__orel_reshka_map](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=gmars1.github.io)](https://github.com/gmars1/gmars1.github.io)
+[![js__orel_reshka_map](https://github-readme-stats.vercel.app/api/pin/?username=gmars1&repo=reshka_map)](https://github.com/gmars1/reshka_map)
