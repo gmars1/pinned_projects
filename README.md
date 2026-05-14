@@ -12,7 +12,6 @@
 
 [![rust__keyboard](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=rKeyboard)](https://github.com/gmars1/rKeyboard)
 
-## etc:
-### just4fun:
 [![js__orel_reshka_map](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=reshka_map)](https://github.com/gmars1/reshka_map)
+
 
