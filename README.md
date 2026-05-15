@@ -8,6 +8,8 @@
 ## tools:
 [![кафедра цифровой аналитики](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=huggingFace_2024__Youtube_PlayList_Creator)](https://github.com/gmars1/huggingFace_2024__Youtube_PlayList_Creator)
 
+[![rust__docs](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=idocs)](https://github.com/gmars1/idocs)
+
 [![rust__sound](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=rSound)](https://github.com/gmars1/rSound)
 
 [![rust__keyboard](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=rKeyboard)](https://github.com/gmars1/rKeyboard)
