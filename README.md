@@ -14,6 +14,8 @@
 
 [![rust__keyboard](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=rKeyboard)](https://github.com/gmars1/rKeyboard)
 
+[![agent docs](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=adocs)](https://github.com/gmars1/adocs)
+
 [![js__orel_reshka_map](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=reshka_map)](https://github.com/gmars1/reshka_map)
 
 
