@@ -5,6 +5,8 @@
 
 [![2s](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=tbank__ab2024__2s)](https://github.com/gmars1/tbank__ab2024__2s)
 
+[![kmp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=mobile_apps_kmp__showcase)](https://github.com/gmars1/mobile_apps_kmp__showcase) 
+
 ## tools:
 [![кафедра цифровой аналитики](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gmars1&repo=huggingFace_2024__Youtube_PlayList_Creator)](https://github.com/gmars1/huggingFace_2024__Youtube_PlayList_Creator)
 
